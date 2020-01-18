@@ -1,0 +1,5 @@
+ro.product.brand=Umidigi
+ro.product.name=Power
+ro.product.device=Umidigi-Power
+ro.build.product=power
+ro.treble.enabled=true
